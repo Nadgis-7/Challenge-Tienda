@@ -15,10 +15,8 @@ Se utilizaron herramientas de análisis de datos, visualización y razonamiento 
 - [🔎 Análisis Realizado](#-análisis-realizado)  
 - [📈 Visualizaciones](#-visualizaciones)  
 - [✅ Recomendación Final](#-recomendación-final)  
-- [⚙️ Cómo Ejecutar el Proyecto](#️-cómo-ejecutar-el-proyecto)  
-- [📎 Estructura del Proyecto](#-estructura-del-proyecto)  
+- [⚙️ Cómo Ejecutar el Proyecto](#️-cómo-ejecutar-el-proyecto)   
 - [🤝 Autor](#-autor)
-
 ---
 
 ## 🎯 Objetivo del Proyecto
@@ -44,20 +42,17 @@ Las principales métricas analizadas fueron:
 ## 🛠️ Herramientas y Librerías Utilizadas
 
 - Google Colab  
-- Python 3  
+- Python  
 - Pandas  
-- Matplotlib  
-- Seaborn  
+- Matplotlib    
 - Celdas Markdown para narrativa del análisis
 
 ---
 
 ## 🔎 Análisis Realizado
-
-- Limpieza y preparación de datos  
+  
 - Agrupamiento y cálculo de promedios por tienda  
-- Gráficos de comparación (barras, líneas, dispersión)  
-- Cálculo de indicadores clave de desempeño (KPI)  
+- Gráficos de comparación (barras, circular, barras horizontales)    
 - Comparativa visual y numérica de cada tienda
 
 ---
@@ -66,8 +61,8 @@ Las principales métricas analizadas fueron:
 
 - 📊 Ingresos Totales por Tienda  
 - 🚚 Costos Promedios de Envío por Tienda  
-- 🧩 Distribución de Productos por Categoría  
-- 📈 Relación entre Precio del Producto y Costo de Envío  
+- 🧩 Distribución de Productos por Categoría
+- 📦 Productos más vendidos y menos vendidos
 - ⭐ Comparación de Calificación Promedio por Tienda  
 
 ---
@@ -79,9 +74,14 @@ Las principales métricas analizadas fueron:
 > La falta de un producto estrella, junto con su desempeño más débil en ingresos y diversidad, la posiciona como la **menos eficiente** de las cuatro.
 
 ---
-
 ## ⚙️ Cómo Ejecutar el Proyecto
 
 1. Clonar este repositorio:  
    ```bash
    git clone https:https://github.com/Nadgis-7/Challenge-Tienda
+
+---
+# 🤝 Autor
+NADIA ZOFF
+Proyecto realizado como parte de un desafío de análisis de datos.  
+Colaboración y feedback siempre bienvenidos.
