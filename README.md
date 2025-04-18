@@ -15,7 +15,8 @@ Se utilizaron herramientas de análisis de datos, visualización y razonamiento 
 - [🔎 Análisis Realizado](#-análisis-realizado)  
 - [📈 Visualizaciones](#-visualizaciones)  
 - [✅ Recomendación Final](#-recomendación-final)  
-- [⚙️ Cómo Ejecutar el Proyecto](#️-cómo-ejecutar-el-proyecto)   
+- [⚙️ Cómo Ejecutar el Proyecto](#️-cómo-ejecutar-el-proyecto)
+- [🤝 Creditos](#-creditos)  
 - [🤝 Autor](#-autor)
 ---
 
@@ -79,9 +80,11 @@ Las principales métricas analizadas fueron:
 1. Clonar este repositorio:  
    ```bash
    git clone https:https://github.com/Nadgis-7/Challenge-Tienda
-
+---
+# 🤝 Créditos
+Este proyecto fue desarrollado como parte del programa ONE - Oracle Next Education en colaboración con Alura Latam.
 ---
 # 🤝 Autor
 NADIA ZOFF
-Proyecto realizado como parte de un desafío de análisis de datos.  
-Colaboración y feedback siempre bienvenidos.
+📧 nz.dataanalytics@gmail.com
+🔗 https://www.linkedin.com/in/nadiazoff/
